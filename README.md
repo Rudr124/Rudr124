@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Rudr Kumar. I develop saas and Cybersecurity tools. Lets connect and have <br>some fun. I am also a secuirty tester and a purple teamer. <br><br>## 👨‍💻 About Me  <br><br>- 🎓 Certified in Cybersecurity (ISC2 CC)  <br>- 🧠 Cisco Networking Academy Learner  <br>- 🛡️ Junior Cybersecurity Analyst (Cisco)  <br>- 🔍 Specialized in OSINT & Ethical Hacking  <br>- 👨‍💼 Experience working as VAPT auditor<br>- 👥 Led cybersecurity teams of 25+ members  <br>- 🌐 Helped victims by reporting and handling cybercrime cases  
+ 
 
 
 ## 🌐 Socials:
